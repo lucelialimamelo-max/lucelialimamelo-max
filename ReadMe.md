@@ -1,8 +1,13 @@
 👋 Olá, eu sou Lucélia de Melo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-🚀 Iniciando minha jornada no mundo da programação e tecnologia  
+
+🚀 Iniciando minha jornada no mundo da programação e tecnologia 
+ 
 📚 Atualmente aprendendo os fundamentos de lógica de programação desenvolvimento e Inteligência Artificial.
+
+
+
 
 📌 Objetivos no GitHub
 - Organizar meus estudos 📖  
